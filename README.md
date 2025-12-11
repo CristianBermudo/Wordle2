@@ -38,5 +38,5 @@ elfinal del separador
 -[x] Recordar que christian es el delegado
 -[] matar a todos los comppañeros
 
-<!-- Recordar que el tecto ya esta terminado-->
+<!-- Recordar que el tecto ya esta terminado -->
 
