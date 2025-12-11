@@ -2,10 +2,10 @@
 ## Descripcion
 ### Informacion Descripcion
 Consta de un juego llamado wordle que sirve para frgregtgbget btg thrthtr hrthtrht el creador del texto es *Christian Bermudo*
--HOLA
--QUE TAL
--BIEN
--GRACIAS
+-HOLA  
+-QUE TAL  
+-BIEN  
+-GRACIAS  
 
 TABLA:
 | Palabra | FeedBack |
